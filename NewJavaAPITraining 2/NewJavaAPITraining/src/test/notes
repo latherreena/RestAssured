@@ -1,0 +1,7 @@
+How many ways to create Post request body data, seen yesterday using hashmap
+
+-hashmap
+-using org.json library- create post request body
+-using pojo class(plain old java object)
+-using external json data file
+
